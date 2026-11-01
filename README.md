@@ -17,3 +17,7 @@ Ativação inicial online e verificação periódica, com até 30 dias de uso of
 **Estado da integração:** há controles MIDI implementados e um modo de demonstração, mas a Yamaha 01V96i ainda aguarda homologação física. Leia [COMPATIBILITY.md](COMPATIBILITY.md) antes de adquirir ou operar a mesa ao vivo. A release não afirma paridade completa com o AirFader.
 
 Yamaha e 01V96i são marcas dos respectivos titulares. Créditos de desenvolvimento e publicação: JDS — JAF DIGITAL SOLUTIONS.
+
+Site oficial: https://wavefader.up.railway.app
+
+Painel de licencas (somente administradores): https://wavefader.up.railway.app/painel
