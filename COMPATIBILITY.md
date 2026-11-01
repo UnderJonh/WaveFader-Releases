@@ -1,4 +1,4 @@
-# Compatibilidade — WaveFader 0.3.0
+# Compatibilidade — WaveFader 26.1.1
 
 O WaveFader é um produto da JDS — JAF DIGITAL SOLUTIONS, direcionado à Yamaha 01V96i.
 
